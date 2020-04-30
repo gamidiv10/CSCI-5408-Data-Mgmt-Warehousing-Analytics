@@ -1,0 +1,128 @@
+
+<Employees>
+<faculty First_Name='A.' Last_Name='Rau-Chaplin' Office_No='105' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Robert' Last_Name='Beiko' Office_No='4232 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Christian' Last_Name='Blouin' Office_No='224' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Raza' Last_Name='Abidi' Office_No='220' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Dirk' Last_Name='Arnold' Office_No='4205 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='J.' Last_Name='Blustein' Office_No=' 4203 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Peter' Last_Name='Bodorik' Office_No='316' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Stephen' Last_Name='Brooks' Office_No='4206 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Travis' Last_Name='Gagie' Office_No='MC 4244' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Israat' Last_Name='Haque' Office_No='320' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Meng' Last_Name='He' Office_No='4245 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Malcolm' Last_Name='Heywood' Office_No='214' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Vlado' Last_Name='Keselj' Office_No='432' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Joseph' Last_Name='Malloch' Office_No='4243 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Stan' Last_Name='Matwin' Office_No='452' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Michael' Last_Name='McAllister' Office_No='327' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Sageev' Last_Name='Oore' Office_No='436' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Rita' Last_Name='Orji' Office_No='4242 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Fernando' Last_Name='Paulovich' Office_No='4207 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Paul' Last_Name='Ralph' Office_No='434' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Derek' Last_Name='Reilly' Office_No='216' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Srinivas' Last_Name='Sampalli' Office_No='4204 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Luis' Last_Name='Torgo' Office_No='319' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='T.' Last_Name='Trappenberg' Office_No='435' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Qiang' Last_Name='Ye' Office_No='4216 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Norbert' Last_Name='Zeh' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='N.' Last_Name='Zincir-Heywood' Office_No='318' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Khurram' Last_Name='Aziz' Office_No='4246 (MC)' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Alex' Last_Name='Brodsky' Office_No='215' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Kirstie' Last_Name='Hawkey' Office_No='226' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='N.' Last_Name='Kalyaniwalla' Office_No='205' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Bonnie' Last_Name='MacKay' Office_No='208' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Yannick' Last_Name='Marchand' Office_No='203' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Tami' Last_Name='Meredith' Office_No='219' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Raghav' Last_Name='Sampangi' Office_No='209' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Angela' Last_Name='Siegel' Office_No='221' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Michael' Last_Name='Shepherd' Office_No='223' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Jacob' Last_Name='Slonim' Office_No='204' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='A.' Last_Name='Abusharekh' Office_No='225' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='R.' Last_Name='Alshammari' Office_No='227' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='O.' Last_Name='Baltzer' Office_No='222' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='I.' Last_Name='Bradbury' Office_No='207' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='P.' Last_Name='Cox' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='S.' Last_Name='Escalera' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='G.' Last_Name='Hu' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='A.' Last_Name='Islam' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='D.' Last_Name='Jutla' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='H.' Last_Name='Kayacik' Office_No='Fisheries and Oceans Canada' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='P.' Last_Name='Langlais' Office_No='Dalhousie University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='G.' Last_Name='Lapalme' Office_No='University of Barcelona' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='V.' Last_Name='Lucic' Office_No='State Univ. of NY at Fredonia' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='T.' Last_Name='Makanju' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='A.' Last_Name='McIntyre' Office_No='SMU' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='R.' Last_Name='Mingham' Office_No='Fair Isaac Corporation' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='A.' Last_Name='Mohd' Office_No='Universite de Montreal' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='S.' Last_Name='Molloy' Office_No='Universite de Montreal' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='H.' Last_Name='Nourashrafeddin' Office_No='Macquarie Group' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='J.' Last_Name='Pei' Office_No='KDDI Research' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='F.' Last_Name='Popowich' Office_No='213' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='M.' Last_Name='Rahman' Office_No='Universidade de Sao Paulo' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='D.' Last_Name='Riordan' Office_No='Dalhousie University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='D.' Last_Name='Silver' Office_No='Glas Ocean Electric' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='M.' Last_Name='Sokolova' Office_No='Dalhousie University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='A.' Last_Name='Soto' Office_No='Simon Fraser University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='K.' Last_Name='Spurr' Office_No='Simon Fraser University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='P.' Last_Name='Vaughan' Office_No='Thompson Rivers University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='H.' Last_Name='Wang' Office_No='Dalhousie University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='X.' Last_Name='Wang' Office_No='Acadia University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='G.' Last_Name='Wilson' Office_No='University of Ottawa' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='J.' Last_Name='Wolkowicz' Office_No='Dalhousie University' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='S.' Last_Name='Abidi' Office_No='NS Health Authority' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='J.' Last_Name='Brown' Office_No='WCBNS' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='J.' Last_Name='Janssen' Office_No='SMU' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='R.' Last_Name='Klein' Office_No='Alibaba Ltd.' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='C.' Last_Name='Lehmann' Office_No='Afinin Labs Inc.' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='P.' Last_Name='MacDougall' Office_No='LeadSift Inc.' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='P.' Last_Name='Selinger' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='M.' Last_Name='Smit' Office_No='Math/Stats' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='B.' Last_Name='Taylor' Office_No='Math/Stats' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='G.' Last_Name='Wach' Office_No='Psychology' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Angie' Last_Name='Bolivar' Office_No='Department of Anesthesia' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Stephanie' Last_Name='Bernier' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Barbara' Last_Name='Borden' Office_No='Math/Stats' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Ashley' Last_Name='Broadbent' Office_No='School of Information Management' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='ennis' Last_Name='Cheng' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Heather' Last_Name='Elliott' Office_No='Earth Sciences' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Allison' Last_Name='Kincade' Office_No='106' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Michelle' Last_Name='Kirkwood' Office_No='106' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Zach' Last_Name='MacDonald' Office_No='108' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Stephanie' Last_Name='Margetts' Office_No='339' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Anne' Last_Name='Publicover' Office_No='306' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Rebecca' Last_Name='Rawcliffe' Office_No='239' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Vidhya' Last_Name='Ramamoorthy' Office_No='325' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Menen' Last_Name='Teferra' Office_No='106' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Kasia' Last_Name='Wolkowicz' Office_No='451' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Jeff' Last_Name='Allen' Office_No='322' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Jonathan' Last_Name='Amyotte' Office_No='104' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Jeremy' Last_Name='Dempsey' Office_No='104' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Manjula' Last_Name='Devaraj' Office_No='324' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Chris' Last_Name='Maxwell' Office_No='326' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Phylip' Last_Name='Munroe' Office_No='306' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Roger' Last_Name='Spencer' Office_No='306' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Catherine' Last_Name='Gunn' Office_No='336' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Sherry' Last_Name='Chauder' Office_No='307' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Jan' Last_Name='Gilby' Office_No='308' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Pam' Last_Name='Goulden' Office_No='305' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Erin' Last_Name='Lushman' Office_No='306' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Ryan' Last_Name='Duggan' Office_No='309' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Rob' Last_Name='Gilbert' Office_No='135' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Steven' Last_Name='Beyea' Office_No='135' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Jennifer' Last_Name='Williams' Office_No=' ' Faculty='Faculty of Computer Science'/>
+<faculty First_Name='Lisa' Last_Name='Bonin' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Nichole' Last_Name='Bower' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Karren' Last_Name='Fader' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Melissa' Last_Name='Sponagle' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Catherine' Last_Name='Gunn' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Stephanie' Last_Name='Lea' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Rachel' Last_Name='MacLeod' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Amy' Last_Name='Munroe' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Louanna' Last_Name='Bethune' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Meaghan' Last_Name='Mamye' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Jamie' Last_Name='Murphy' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Noel' Last_Name='Pendergast' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Tammy' Last_Name='Scott' Office_No=' ' Faculty='School of Health Sciences'/>
+<faculty First_Name='Kathleen' Last_Name='Spurr' Office_No=' ' Faculty='School of Health Sciences'/>
+</Employees>

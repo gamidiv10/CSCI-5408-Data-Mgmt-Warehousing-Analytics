@@ -1,0 +1,1 @@
+Watch a swarm of robots build a timber tower from scratch,Nan,Students at the University of Stuttgart in Germany have developed a system of robots that communicate to jointly construct complex timber structures Their paper entitled Distributed Robotic Assembly System for InSitu Timber Construction envisions such rob

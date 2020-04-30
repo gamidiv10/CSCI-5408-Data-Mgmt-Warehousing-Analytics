@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+</head>
+<body style="text-align:center;color:#ff9933 ;">
+<h1 style="font-family:verdana;">Case Study</h1>
+
+<form action="http://localhost:8080/"  method="POST" id="LocationForm" style="color:blue;">
+  <select id="Db" name="Db" style="color:#138808;">
+    <option>MySQL</option>
+    <option>MongoDb</option>
+  </select>
+  <select id="location" name="geo" style="color:#138808;"> 
+      <option>Select</option>
+    </select>
+
+</select>
+
+
+<script>
+$.getJSON("https://api.myjson.com/bins/k2hyq", function(json) {
+    
+    var location = document.getElementById("location");  
+    for (i = 0; i < json.length; i++)
+    {
+      var option = document.createElement("option");
+      option.text = json[i]["geo"];
+      location.add(option);   
+    }
+
+});
+</script>
+
+</body>
+<button type="submit" style="color:#138808;">Submit</button>
+
+</form>
+</div>
+</html>

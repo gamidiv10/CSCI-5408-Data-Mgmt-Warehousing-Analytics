@@ -1,0 +1,11 @@
+
+<Payment_Methods>
+<Payment_Method payment='Internet banking'/>
+<Payment_Method payment='Global Pay (preferred method for international students)'/>
+<Payment_Method payment='Interac (CDN debits only)'/>
+<Payment_Method payment='Cheques and money order'/>
+<Payment_Method payment='Scholarships'/>
+<Payment_Method payment='Student loans'/>
+<Payment_Method payment='Third party sponsor'/>
+<Payment_Method payment='Waivers'/>
+</Payment_Methods>
